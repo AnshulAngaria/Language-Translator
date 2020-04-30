@@ -1,5 +1,5 @@
 # Machine-Translation-System
-Neural Machine Translator from English to Hindi
+English-to-Hindi language translation model using neural machine translation with seq2seq architecture.
 
 # Dependencies
 Tensorflow<br/>
